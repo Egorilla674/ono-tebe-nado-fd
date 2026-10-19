@@ -1,1 +1,1 @@
-https://github.com/Egorilla674/ono-tebe-nado-fd
+https://github.com/Egorilla674/ono-tebe-nado-fd.git
